@@ -1,7 +1,7 @@
 # ROC installation instructions
 
 How to install and configure a rest-on-couch server with built-in view manager.
-This tutorial is made for CentOS 7.
+This tutorial is made for CentOS 6 & 7.
 
 ## Step 1: Install CouchDB
 
